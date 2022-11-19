@@ -1,9 +1,27 @@
 p {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
-h1{
+h1 {
     text-align: center;
     color: violet;
+}
+h2 {
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
+* {
+    background-color: #1A1A1D;
+}
+
+a:link, a:visited {
+    color:hotpink;
+    text-align: center;
+}
+
+a:hover {
+    color:greenyellow;
 }
