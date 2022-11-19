@@ -25,3 +25,7 @@ a:link, a:visited {
 a:hover {
     color:greenyellow;
 }
+
+.link {
+    text-align: center;
+}
